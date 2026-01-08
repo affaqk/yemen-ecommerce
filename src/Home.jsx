@@ -59,3 +59,7 @@ const Home = () => {
 }
 
 export default Home
+
+
+// PROPS ( data transfer from one component to another )
+// React Router dom ( npm pacakge use for switching between different pages ( with single page application I mean it will not reload the page))

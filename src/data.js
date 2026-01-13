@@ -46,6 +46,102 @@ export const products = [
     },
     
 ]
+export const products2 = [
+    {
+        img : "/images/watch.jpg",
+        title : "Watch",
+        price : 50
+    },
+    {
+        img : "/images/bag.jpg",
+        title : "Bag",
+        price : 70
+    },
+    {
+        img : "/images/necklace.jpg",
+        title : "Necklace",
+        price : 100
+    },
+    {
+        img : "/images/watch.jpg",
+        title : "Watch",
+        price : 50
+    },
+    {
+        img : "/images/bag.jpg",
+        title : "Bag",
+        price : 70
+    },
+    {
+        img : "/images/necklace.jpg",
+        title : "Necklace",
+        price : 100
+    },
+    {
+        img : "/images/watch.jpg",
+        title : "Watch",
+        price : 50
+    },
+    {
+        img : "/images/bag.jpg",
+        title : "Bag",
+        price : 70
+    },
+    {
+        img : "/images/necklace.jpg",
+        title : "Necklace",
+        price : 100
+    },
+    
+]
+export const products3 = [
+    {
+        img : "/images/watch.jpg",
+        title : "Watch",
+        price : 50
+    },
+    {
+        img : "/images/bag.jpg",
+        title : "Bag",
+        price : 70
+    },
+    {
+        img : "/images/necklace.jpg",
+        title : "Necklace",
+        price : 100
+    },
+    {
+        img : "/images/watch.jpg",
+        title : "Watch",
+        price : 50
+    },
+    {
+        img : "/images/bag.jpg",
+        title : "Bag",
+        price : 70
+    },
+    {
+        img : "/images/necklace.jpg",
+        title : "Necklace",
+        price : 100
+    },
+    {
+        img : "/images/watch.jpg",
+        title : "Watch",
+        price : 50
+    },
+    {
+        img : "/images/bag.jpg",
+        title : "Bag",
+        price : 70
+    },
+    {
+        img : "/images/necklace.jpg",
+        title : "Necklace",
+        price : 100
+    },
+    
+]
 
 export const categories = [
     {

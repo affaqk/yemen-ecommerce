@@ -1,9 +1,10 @@
 import { categories, products } from "./data"
+import Product from "./Product"
 
 const Home = () => {
   return (
     <>
-      <div id="carouselExample" class="carousel slide mt-5">
+      <div id="carouselExample" class="carousel slide">
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img src="/images/bag.jpg" class="d-block w-100 slider-img" alt="..." />
@@ -43,12 +44,7 @@ const Home = () => {
         <div className="row products mt-5 g-5">
           {
             products.map((product)=>(
-              <div className="col-lg-4 col-sm-6 col-12">
-            <img src={product.img} alt="" />
-            <h2 className="mt-3 mb-3">{product.title}</h2>
-            <p>Price : {product.price}</p>
-            <button className="btn btn-warning">Buy Now</button>
-          </div>
+              <Product product = {product}/>
             ))
           }
          

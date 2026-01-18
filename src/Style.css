@@ -149,3 +149,16 @@
         gap: 2rem;
     }
 }
+
+.form{
+    border: 2px solid black;
+    padding: 25px;
+}
+
+.form input{
+    border: none;
+    background-color: lightgrey;
+    padding: 8px;
+    margin: 10px 0;
+    border-radius: 20px;
+}
